@@ -10,8 +10,8 @@
 7. Настраиваю пуш-уведомления с помощью Firebase.
 8. Интегрирую приложения с серверной частью (REST API)
 9. Делаю приложения 
-- с загрузкой картинок (Glide, ImagePicker),
+- с загрузкой картинок (Glide, ImagePicker), 
 - с проигрыванием аудио и видео (MediaPlayer),
-- c геолокацией и картами (Yandex MapKit)
-10. Делаю несложные Custom Views.
-11. Умею решать несложные алгоритмические задачи на Java и Kotlin.
+- c геолокацией и картами (Yandex MapKit) [Ссылка](https://github.com/Marijarin/yamap)
+10. Делаю несложные Custom Views и анимацию [Пример 1](https://github.com/Marijarin/animator/tree/fillingType) [Пример 2](https://github.com/Marijarin/animation)
+11. Умею решать несложные алгоритмические задачи на Java и Kotlin. Также делала консольное приложение на Java  - конвертер картинок в текстовую графику. [Ссылка](https://github.com/Marijarin/courseWorkJava-PicConverter/tree/main)
