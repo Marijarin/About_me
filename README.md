@@ -15,3 +15,4 @@
 - c геолокацией и картами (Yandex MapKit) [Ссылка](https://github.com/Marijarin/yamap)
 10. Делаю несложные Custom Views и анимацию [Пример 1](https://github.com/Marijarin/animator/tree/fillingType) [Пример 2](https://github.com/Marijarin/animation)
 11. Умею решать несложные алгоритмические задачи на Java и Kotlin. Также делала консольное приложение на Java  - конвертер картинок в текстовую графику. [Ссылка](https://github.com/Marijarin/courseWorkJava-PicConverter/tree/main)
+# Here is my portfolio in English [Portfolio] https://github.com/Marijarin/marijarin_portfolio/blob/main/README.md
