@@ -3,18 +3,18 @@
 Что я умею:
 1. Создаю Андроид - приложения со слоистой архитектурой (MVVM) с нуля.
 2. Работаю с git системой контроля версий, в том числе могу настроить CI/CD.
-3. Пишу автотесты (JUnit).
-4. Делаю верстку, в том числе Bottom Navigation.
-5. Использую kotlinx.coroutines  и flow в приложениях.
-6. Делаю авторизацию и регистрацию.[Ссылка](https://github.com/Marijarin/andin-homeworks/tree/auth2)
-7. Настраиваю пуш-уведомления с помощью Firebase.[Ссылка](https://github.com/Marijarin/AND-33-homeworks/tree/post-nots)
-8. Интегрирую приложения с серверной частью (REST API)
+3. Пишу автотесты (JUnit).[Пример](https://github.com/Marijarin/homework-ChatService/blob/main/src/test/kotlin/ru/netology/ChatServiceTest.kt)
+4. Делаю верстку, в том числе Bottom Navigation. [Ссылка](https://github.com/Marijarin/Workmeet)
+5. Использую kotlinx.coroutines  и flow в приложениях. [Ссылка](https://github.com/Marijarin/Workmeet)
+6. Делаю авторизацию и регистрацию. [Ссылка](https://github.com/Marijarin/andin-homeworks/tree/auth2)
+7. Настраиваю пуш-уведомления с помощью Firebase. [Ссылка](https://github.com/Marijarin/AND-33-homeworks/tree/post-nots)
+8. Интегрирую приложения с серверной частью (REST API) [Пример 1](https://github.com/Marijarin/Workmeet), [Пример 2](https://github.com/Marijarin/andin-homeworks/tree/paging/app)
 9. Делаю приложения 
-- с загрузкой картинок (Glide, ImagePicker), 
-- с проигрыванием аудио и видео (MediaPlayer),
+- с загрузкой картинок (Glide, ImagePicker), [Ссылка](https://github.com/Marijarin/andin-homeworks/tree/images/app)
+- с проигрыванием аудио и видео (MediaPlayer), [Ссылка](https://github.com/Marijarin/Album/tree/multipleClicks)
 - c геолокацией и картами (Yandex MapKit) [Ссылка](https://github.com/Marijarin/yamap)
 - с сепараторами внутри списков [Ссылка](https://github.com/Marijarin/andin-homeworks/tree/separators)
 10. Делаю несложные Custom Views и анимацию [Пример 1](https://github.com/Marijarin/animator/tree/fillingType), [Пример 2](https://github.com/Marijarin/animation)
 11. Умею решать несложные алгоритмические задачи на Java и Kotlin. Также делала консольное приложение на Java  - конвертер картинок в текстовую графику. [Ссылка](https://github.com/Marijarin/courseWorkJava-PicConverter/tree/main)
-
- -> Here is my bio and portfolio in English [Portfolio](https://github.com/Marijarin/marijarin_portfolio/blob/main/README.md)
+# Hello
+Here is my bio and portfolio in English [Portfolio](https://github.com/Marijarin/marijarin_portfolio/blob/main/README.md)
