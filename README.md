@@ -18,3 +18,4 @@
 11. Умею решать несложные алгоритмические задачи на Java и Kotlin. Также делала консольное приложение на Java  - конвертер картинок в текстовую графику. [Ссылка](https://github.com/Marijarin/courseWorkJava-PicConverter/tree/main)
 # Hello
 Here is my bio and portfolio in English [Portfolio](https://marijarin.github.io/marijarin_portfolio/)
+[Contacts](https://taplink.cc/marinas.writing)
