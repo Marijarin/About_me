@@ -20,6 +20,6 @@
 Сертификаты о пройденных разделах курса по Андроид - [здесь](https://drive.google.com/drive/folders/1miV7SWCFwDzgBzjVzea3AZ7R5ujqcf0k?usp=sharing)
 
 # Hello
-Here is my bio and portfolio in English [Portfolio](https://marijarin.github.io/marijarin_portfolio/)
+I am Marina Zharinova. Here is my bio and portfolio in English [Portfolio](https://marijarin.github.io/marijarin_portfolio/)
 
 [Contacts](https://taplink.cc/marinas.writing)
