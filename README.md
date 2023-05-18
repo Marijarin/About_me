@@ -1,6 +1,8 @@
 # Привет!
 Я Марина Жаринова, разрабатываю приложения под Андроид на языке Котлин.
-Что я умею:
+В апреле закончила курс по Андроид-разработке от Нетологии. [Вот какие разделы я изучила](https://drive.google.com/drive/folders/1miV7SWCFwDzgBzjVzea3AZ7R5ujqcf0k?usp=share_link).
+
+Что умею:
 1. Создаю Андроид - приложения со слоистой архитектурой (MVVM) с нуля.
 2. Работаю с git системой контроля версий, в том числе могу настроить CI/CD.
 3. Пишу автотесты (JUnit).[Пример](https://github.com/Marijarin/homework-ChatService/blob/main/src/test/kotlin/ru/netology/ChatServiceTest.kt)
