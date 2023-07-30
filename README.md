@@ -21,7 +21,7 @@
 
 Сертификаты о пройденных разделах курса по Андроид - [здесь](https://drive.google.com/drive/folders/1miV7SWCFwDzgBzjVzea3AZ7R5ujqcf0k?usp=sharing)
 
-#Направления, где сейчас учусь самостоятельно
+# Направления, где сейчас учусь самостоятельно
 - Jetpack Compose
 - Firebase SDK (serverless apps)
 
