@@ -4,7 +4,7 @@
 
 Что умею:
 1. Создаю Андроид - приложения со слоистой архитектурой (MVVM) с нуля. [Вот наиболее объемное приложение с такой архитектурой](https://github.com/Marijarin/Workmeet)
-2. Работаю с git системой контроля версий, в том числе могу настроить CI/CD.
+2. Знаю командную работу в Git.
 3. Пишу автотесты (JUnit).[Пример](https://github.com/Marijarin/homework-ChatService/blob/main/src/test/kotlin/ru/netology/ChatServiceTest.kt)
 4. Делаю верстку, в том числе Bottom Navigation. [Ссылка](https://github.com/Marijarin/Workmeet)
 5. Использую kotlinx.coroutines  и flow в приложениях. [Ссылка](https://github.com/Marijarin/Workmeet) [Еще одно](https://github.com/Marijarin/FoodOrderTW)
